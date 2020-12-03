@@ -1,7 +1,7 @@
 # My First Hash
 
-## Objectives
 
+## Objectives
 1. Create hashes using the literal constructor.
 2. Retrieve data from hashes using the bracket method.
 3. Add data to hashes using the "bracket-equals" method.
